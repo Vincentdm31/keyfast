@@ -1,0 +1,10 @@
+[package]
+name = "keyfast"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crossterm = "0.29.0"
+dialoguer = "0.11.0"
+lipsum = "0.9.1"
+rand = "0.8.5"
